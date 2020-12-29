@@ -38,5 +38,9 @@
 }
 
 div#single{
-  background-color: blue;
+  background-color: rgb(105, 105, 196);
+  width: 400px;
+  padding: 250px;
+  margin: 0;
+  position: relative ; right: -270px; top: 100px;
 }
