@@ -4,6 +4,7 @@ import './App.css';
 class App extends React.Component {
   render(){
      return (
+       
     <div className="App">
       <div id="white">
         <h4 id="white-h4">Join our community</h4>
