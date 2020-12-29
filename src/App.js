@@ -7,14 +7,14 @@ class App extends React.Component {
     <div className="App">
       <div id="white">
         <h4 id="white-h4">Join our community</h4>
-        <h5 id="white-h5">30-day hassle-free money back guarantee</h5>
+        <h5 id="white-h5">30-day, hassle-free money back guarantee</h5>
         <p id="white-p">Gain access to our amazing classes and tutorials</p>
         <p id="white-p">Perfect for programmers looking to hone their skills</p>
       </div>
       <div id="single">
         <br></br>
         <h4 id="single-h4">Monthly Subscription</h4>
-        <h2>£10 per month</h2> 
+        <h2 id="h2-money">£10 per month</h2> 
 
         <p>Full access is less than £1 per day!</p>
         <br></br>

@@ -62,6 +62,10 @@ div#blue{
   color: azure;
 
 }
+
+h2#h2-money{
+  font-weight: 600;
+}
 /* White component */
 div#single{
   background-color: #2CB3B2;
